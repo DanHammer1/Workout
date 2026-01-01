@@ -1,0 +1,920 @@
+{
+    "Data": {
+        "Max Difficulty": 150,
+        "Exercises": [
+            {
+                "Category": "Pushup",
+                "Variations": [
+                    {
+                        "Type": "Regular",
+                        "Optimal Rep Count": 15,
+                        "Optimal Rep Time": 2,
+                        "Display Name": "Regular Pushup",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 40,
+                        "Muscles": [
+                            "Tricep",
+                            "Shoulder"
+                        ]
+                    },
+                    {
+                        "Type": "Planche Pushup",
+                        "Optimal Rep Count": 10,
+                        "Optimal Rep Time": 4,
+                        "Display Name": "Planche Pushup",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 85,
+                        "Muscles": [
+                            "Shoulder", 
+                            "Tricep",
+                            "Abdominal"]
+                    },
+                    {
+                        "Type": "Superman",
+                        "Optimal Rep Count": 10,
+                        "Optimal Rep Time": 2,
+                        "Display Name": "Superman Pushup",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 120,
+                        "Muscles": [
+                            "Shoulder", 
+                            "Abdominal", 
+                            "Chest", 
+                            "Forearm"
+                        ]
+                    },
+                    {
+                        "Type": "Clap",
+                        "Optimal Rep Time": 1.5,
+                        "Optimal Rep Count": 15,
+                        "Display Name": "Clap Pushup",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 55,
+                        "Muscles": [
+                            "Chest",
+                            "Shoulder",
+                            "Tricep"
+                        ]
+                    },
+                    {
+                        "Type": "Diamond",
+                        "Optimal Rep Count": 15,
+                        "Optimal Rep Time": 2.5,
+                        "Display Name": "Diamond Pushup",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 55,
+                        "Muscles": [
+                            "Chest",
+                            "Shoulder"
+                        ]
+                    },
+                    {
+                        "Type": "One Arm",
+                        "Optimal Rep Count": 5,
+                        "Optimal Rep Time": 5,
+                        "Display Name": "One-Arm Pushup",
+                        "Symetrical Limb Targeting": false,
+                        "Difficulty": 80,
+                        "Muscles": [
+                            "Tricep",
+                            "Shoulder"
+                        ]
+                    },
+                    {
+                        "Type": "Handstand",
+                        "Optimal Rep Count": 5,
+                        "Optimal Rep Time": 5,
+                        "Display Name": "Handstand Pushup",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 80,
+                        "Muscles": [
+                            "Shoulder",
+                            "Tricep",
+                            "Chest",
+                            "Abdominal"
+                        ]
+                    },
+                    {
+                        "Type": "Handstand Wall",
+                        "Optimal Rep Count": 5,
+                        "Optimal Rep Time": 5,
+                        "Display Name": "Handstand Pushup",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 70,
+                        "Muscles": [
+                            "Shoulder",
+                            "Tricep",
+                            "Chest",
+                            "Abdominal"
+                        ]
+                    },
+                    {
+                        "Type": "Incline",
+                        "Optimal Rep Count": 15,
+                        "Optimal Rep Time": 2.5,
+                        "Display Name": "Incline Pushup",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 25,
+                        "Muscles": [
+                            "Shoulder",
+                            "Tricep",
+                            "Chest",
+                            "Abdominal"
+                        ]
+                    },
+                    {
+                        "Type": "Decline",
+                        "Optimal Rep Count": 15,
+                        "Optimal Rep Time": 2.5,
+                        "Display Name": "Decline Pushup",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 60,
+                        "Muscles": [
+                            "Shoulder",
+                            "Tricep",
+                            "Chest",
+                            "Abdominal"
+                        ]
+                    },
+                    {
+                        "Type": "Pike",
+                        "Optimal Rep Count": 15,
+                        "Optimal Rep Time": 2,
+                        "Display Name": "Pike Pushup",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 65,
+                        "Muscles": [
+                            "Shoulder",
+                            "Tricep",
+                            "Chest",
+                            "Abdominal"
+                        ]
+                    },
+                    {
+                        "Type": "Fingertip",
+                        "Optimal Rep Count": 15,
+                        "Optimal Rep Time": 3,
+                        "Display Name": "Fingertip Pushup",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 65,
+                        "Muscles": [
+                            "Shoulder",
+                            "Tricep",
+                            "Chest",
+                            "Abdominal",
+                            "Forearm"
+                        ]
+                    },
+                    {
+                        "Type": "Knuckle",
+                        "Optimal Rep Count": 15,
+                        "Optimal Rep Time": 2.5,
+                        "Display Name": "Knuckle Pushup",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 55,
+                        "Muscles": [
+                            "Shoulder",
+                            "Tricep",
+                            "Chest",
+                            "Abdominal",
+                            "Forearm"
+                        ]
+                    },
+                    {
+                        "Type": "Archer",
+                        "Optimal Rep Count": 10,
+                        "Optimal Rep Time": 3,
+                        "Display Name": "Archer Push-Up",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 70,
+                        "Muscles": [
+                            "Chest",
+                            "Shoulder",
+                            "Tricep"
+                        ]
+                    }
+                ]  
+            },
+            {
+                "Category": "Squat",
+                "Variations": [
+                    {
+                        "Type": "Regular",
+                        "Optimal Rep Count": 20,
+                        "Optimal Rep Time": 2,
+                        "Display Name": "Regular Squat",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 30,
+                        "Muscles": [
+                            "Upper Leg",
+                            "Abdominal",
+                            "Glute"
+                        ]
+                    },
+                    {
+                        "Type": "Jump",
+                        "Optimal Rep Count": 15,
+                        "Optimal Rep Time": 2,
+                        "Display Name": "Jump Squat",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 50,
+                        "Muscles": [
+                            "Upper Leg",
+                            "Abdominal",
+                            "Glute",
+                            "Calf"
+                        ]
+                    },
+                    {
+                        "Type": "Pistol",
+                        "Optimal Rep Count": 5,
+                        "Optimal Rep Time": 5,
+                        "Display Name": "Pistol Squat",
+                        "Symetrical Limb Targeting": false,
+                        "Difficulty": 90,
+                        "Muscles": [
+                            "Upper Leg",
+                            "Abdominal",
+                            "Glute",
+                            "Calf"
+                        ]
+                    },
+                    {
+                        "Type": "Sissy",
+                        "Optimal Rep Count": 10,
+                        "Optimal Rep Time": 5,
+                        "Display Name": "Sissy Squat",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 67,
+                        "Muscles": [
+                            "Upper Leg",
+                            "Abdominal",
+                            "Glute"
+                        ]
+                    },
+                    {
+                        "Type": "Archer",
+                        "Optimal Rep Count": 10,
+                        "Optimal Rep Time": 5,
+                        "Display Name": "Archer Squat",
+                        "Symetrical Limb Targeting": false,
+                        "Difficulty": 67,
+                        "Muscles": [
+                            "Upper Leg",
+                            "Glute"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Category": "Situp",
+                "Variations": [
+                    {
+                        "Type": "Regular",
+                        "Optimal Rep Count": 20,
+                        "Optimal Rep Time": 3,
+                        "Display Name": "Regular Situp",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 25,
+                        "Muscles": [
+                            "Abdominal"
+                        ]
+                    },
+                    {
+                        "Type": "Crunch",
+                        "Optimal Rep Count": 20,
+                        "Optimal Rep Time": 3,
+                        "Display Name": "Regular Crunch",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 35,
+                        "Muscles": [
+                            "Abdominal"
+                        ]
+                    },
+                    {
+                        "Type": "Bicycle Crunch",
+                        "Optimal Rep Count": 10,
+                        "Optimal Rep Time": 3,
+                        "Display Name": "Bicycle Crunch",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 65,
+                        "Muscles": [
+                            "Abdominal",
+                            "Upper Leg"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Category": "Plank",
+                "Variations": [
+                    {
+                        "Type": "Regular",
+                        "Optimal Rep Count": 1,
+                        "Optimal Rep Time": 30,
+                        "Display Name": "Regular Plank",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 50,
+                        "Muscles": [
+                            "Abdominal",
+                            "Shoulder",
+                            "Glute"
+                        ]
+                    },
+                    {
+                        "Type": "Shoulder Taps",
+                        "Optimal Rep Count": 15,
+                        "Optimal Rep Time": 3,
+                        "Display Name": "Regular Plank Shoulder Taps",
+                        "Symetrical Limb Targeting": false,
+                        "Difficulty": 55,
+                        "Muscles": [
+                            "Abdominal",
+                            "Shoulder",
+                            "Glute"
+                        ]
+                    },
+                    {
+                        "Type": "Ultra Beginner",
+                        "Optimal Rep Count": 1,
+                        "Optimal Rep Time": 30,
+                        "Display Name": "Beginner Half Plank",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 15,
+                        "Muscles": [
+                            "Abdominal",
+                            "Shoulder",
+                            "Bicep"
+                        ]
+                    },
+                    {
+                        "Type": "Beginner",
+                        "Optimal Rep Count": 1,
+                        "Optimal Rep Time": 30,
+                        "Display Name": "Beginner Plank",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 25,
+                        "Muscles": [
+                            "Abdominal",
+                            "Shoulder",
+                            "Bicep",
+                            "Upper Leg"
+                        ]
+                    },
+                    {
+                        "Type": "Reverse",
+                        "Optimal Rep Count": 1,
+                        "Optimal Rep Time": 30,
+                        "Display Name": "Reverse Plank",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 60,
+                        "Muscles": [
+                            "Shoulder",
+                            "Glute",
+                            "Upper Leg",
+                            "Back"
+                        ]
+                    },
+                    {
+                        "Type": "Hollow Body Hold",
+                        "Optimal Rep Count": 1,
+                        "Optimal Rep Time": 30,
+                        "Display Name": "Hollow Body Hold",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 70,
+                        "Muscles": [
+                            "Abdominal",
+                            "Glute",
+                            "Upper Leg"
+                        ]
+                    },
+                    {
+                        "Type": "Side",
+                        "Optimal Rep Count": 1,
+                        "Optimal Rep Time": 30,
+                        "Display Name": "Side Plank",
+                        "Symetrical Limb Targeting": false,
+                        "Difficulty": 55,
+                        "Muscles": [
+                            "Abdominal",
+                            "Glute",
+                            "Shoulder"
+                        ]
+                    },
+                    {
+                        "Type": "Levered",
+                        "Optimal Rep Count": 1,
+                        "Optimal Rep Time": 30,
+                        "Display Name": "Levered Plank",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 75,
+                        "Muscles": [
+                            "Abdominal",
+                            "Glute",
+                            "Shoulder"
+                        ]
+                    },
+                    {
+                        "Type": "Wall - Arm",
+                        "Optimal Rep Count": 1,
+                        "Optimal Rep Time": 30,
+                        "Display Name": "Arm's to Wall Plank",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 95,
+                        "Muscles": [
+                            "Forearm",
+                            "Shoulder"
+                        ]
+                    },
+                    {
+                        "Type": "Wall - Foot",
+                        "Optimal Rep Count": 1,
+                        "Optimal Rep Time": 30,
+                        "Display Name": "Feet to Wall Plank",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 75,
+                        "Muscles": [
+                            "Abdominal",
+                            "Shoulder"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Category": "Pullup",
+                "Variations": [
+                    {
+                        "Type": "Regular",
+                        "Optimal Rep Count": 10,
+                        "Optimal Rep Time": 3,
+                        "Display Name": "Regular Pullup",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 65,
+                        "Muscles": [
+                            "Back",
+                            "Bicep",
+                            "Forearm"
+                        ]
+                    },
+                    {
+                        "Type": "Chin",
+                        "Optimal Rep Count": 10,
+                        "Optimal Rep Time": 3,
+                        "Display Name": "Chin-Up",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 55,
+                        "Muscles": [
+                            "Back",
+                            "Bicep",
+                            "Forearm"
+                        ]
+                    },
+                    {
+                        "Type": "Chin One Arm",
+                        "Optimal Rep Count": 5,
+                        "Optimal Rep Time": 3,
+                        "Display Name": "One-Arm Chin-Up",
+                        "Symetrical Limb Targeting": false,
+                        "Difficulty": 115,
+                        "Muscles": [
+                            "Back",
+                            "Bicep",
+                            "Forearm"
+                        ]
+                    },
+                    {
+                        "Type": "Regular One Arm",
+                        "Optimal Rep Count": 5,
+                        "Optimal Rep Time": 3,
+                        "Display Name": "One-Arm Pull-Up",
+                        "Symetrical Limb Targeting": false,
+                        "Difficulty": 125,
+                        "Muscles": [
+                            "Back",
+                            "Bicep",
+                            "Forearm"
+                        ]
+                    },
+                    {
+                        "Type": "Hang",
+                        "Optimal Rep Count": 1,
+                        "Optimal Rep Time": 30,
+                        "Display Name": "Body Hang",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 50,
+                        "Muscles": [
+                            "Back",
+                            "Bicep",
+                            "Forearm",
+                            "Shoulder"
+                        ]
+                    },
+                    {
+                        "Type": "One Arm Hang",
+                        "Optimal Rep Count": 1,
+                        "Optimal Rep Time": 30,
+                        "Display Name": "One-Arm Body Hang",
+                        "Symetrical Limb Targeting": false,
+                        "Difficulty": 80,
+                        "Muscles": [
+                            "Back",
+                            "Bicep",
+                            "Forearm",
+                            "Shoulder"
+                        ]
+                    },
+                    {
+                        "Type": "Hanging Knee Raises",
+                        "Optimal Rep Count": 10,
+                        "Optimal Rep Time": 3,
+                        "Display Name": "Hanging Knee Raises",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 65,
+                        "Muscles": ["Abdominal", "Upper Leg", "Forearm"]
+                    }
+                ]
+            },
+            {
+                "Category": "Wall Sit",
+                "Variations": [
+                    {
+                        "Type": "Regular",
+                        "Optimal Rep Count": 1,
+                        "Optimal Rep Time": 30,
+                        "Display Name": "Wall Sit",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 50,
+                        "Muscles": [
+                            "Calf",
+                            "Upper Leg"
+                        ]
+                    },
+                    {
+                        "Type": "One Leg",
+                        "Optimal Rep Count": 1,
+                        "Optimal Rep Time": 30,
+                        "Display Name": "One-Leg Wall Sit",
+                        "Symetrical Limb Targeting": false,
+                        "Difficulty": 80,
+                        "Muscles": [
+                            "Calf",
+                            "Upper Leg"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Category": "Special",
+                "Variations": [
+                    {
+                        "Type": "Bird Dog",
+                        "Optimal Rep Count": 5,
+                        "Optimal Rep Time": 4,
+                        "Display Name": "Bird Dog",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 45,
+                        "Muscles": [
+                            "Abdominal",
+                            "Back",
+                            "Glute"
+                        ]
+                    },
+                    {
+                        "Type": "V Ups",
+                        "Optimal Rep Count": 5,
+                        "Optimal Rep Time": 2.5,
+                        "Display Name": "V Ups",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 70,
+                        "Muscles": [
+                            "Abdominal",
+                            "Upper Leg"
+                        ]
+                    },
+                    {
+                        "Type": "Dragon Flags",
+                        "Optimal Rep Count": 5,
+                        "Optimal Rep Time": 5,
+                        "Display Name": "Dragon Flags",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 70,
+                        "Muscles": [
+                            "Abdominal",
+                            "Glute",
+                            "Upper Leg"
+                        ]
+                    },
+                    {
+                        "Type": "L-Sit",
+                        "Optimal Rep Count": 3,
+                        "Display Name": "L-Sit",
+                        "Optimal Rep Time": 15,
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 75,
+                        "Muscles": [
+                            "Abdominal",
+                            "Tricep",
+                            "Upper Leg",
+                            "Shoulder"
+                        ]
+                    },
+                    {
+                        "Type": "Mountain Climbers",
+                        "Optimal Rep Count": 30,
+                        "Optimal Rep Time": 1,
+                        "Display Name": "Mountain Climbers",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 65,
+                        "Muscles": [
+                            "Abdominal",
+                            "Upper Leg",
+                            "Shoulder"
+                        ]
+                    },
+                    {
+                        "Type": "Flutter Kicks",
+                        "Optimal Rep Count": 15,
+                        "Optimal Rep Time": 1.5,
+                        "Display Name": "Flutter Kicks",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 50,
+                        "Muscles": [
+                            "Abdominal",
+                            "Upper Leg"
+                        ]
+                    },
+                    {
+                        "Type": "Leg Circles",
+                        "Optimal Rep Count": 10,
+                        "Optimal Rep Time": 3,
+                        "Display Name": "Leg Circles",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 30,
+                        "Muscles": [
+                            "Upper Leg"
+                        ]
+                    },
+                    {
+                        "Type": "Calf Raises",
+                        "Optimal Rep Count": 10,
+                        "Optimal Rep Time": 3,
+                        "Display Name": "Calf Raises",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 30,
+                        "Muscles": [
+                            "Calf"
+                        ]
+                    },
+                    {
+                        "Type": "Wall Walk",
+                        "Optimal Rep Count": 5,
+                        "Optimal Rep Time": 6,
+                        "Display Name": "Wall Walk",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 75,
+                        "Muscles": [
+                            "Shoulder",
+                            "Chest",
+                            "Tricep",
+                            "Abdominal"
+                        ]
+                    },
+                    {
+                        "Type": "Floor Dips",
+                        "Optimal Rep Count": 5,
+                        "Optimal Rep Time": 3,
+                        "Display Name": "Floor Dips",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 70,
+                        "Muscles": [
+                            "Shoulder",
+                            "Tricep",
+                            "Chest"
+                        ]
+                    },
+                    {
+                        "Type": "Elbow Lever",
+                        "Optimal Rep Count": 3,
+                        "Optimal Rep Time": 15,
+                        "Display Name": "Elbow Lever",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 70,
+                        "Muscles": [
+                            "Shoulder",
+                            "Forearm",
+                            "Abdominal"
+                        ]
+                    },
+                    {
+                        "Type": "Tuck Planche",
+                        "Optimal Rep Count": 3,
+                        "Optimal Rep Time": 15,
+                        "Display Name": "Tuck Planche",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 75,
+                        "Muscles": [
+                            "Shoulder",
+                            "Tricep"
+                        ]
+                    },
+                    {
+                        "Type": "Full Planche",
+                        "Optimal Rep Count": 3,
+                        "Optimal Rep Time": 15,
+                        "Display Name": "Full Planche",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 95,
+                        "Muscles": [
+                            "Shoulder",
+                            "Tricep",
+                            "Abdominal"
+                        ]
+                    },
+                    {
+                        "Type": "Doggy Walk",
+                        "Optimal Rep Count": 1,
+                        "Optimal Rep Time": 15,
+                        "Display Name": "Doggy Walk",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 110,
+                        "Muscles": [
+                            "Shoulder",
+                            "Tricep",
+                            "Abdominal"
+                        ]
+                    },
+                    {
+                        "Type": "One Arm Stab",
+                        "Optimal Rep Count": 1,
+                        "Optimal Rep Time": 10, 
+                        "Display Name": "One-Arm Stab",
+                        "Symetrical Limb Targeting": false,
+                        "Difficulty": 135,
+                        "Muscles": [
+                            "Shoulder",
+                            "Tricep",
+                            "Abdominal"
+                        ]
+                    },
+                    {
+                        "Type": "Seated In and Outs",
+                        "Optimal Rep Count": 20,
+                        "Optimal Rep Time": 1,
+                        "Display Name": "Seated In and Outs",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 40,
+                        "Muscles": [
+                            "Abdominal"
+                        ]
+                    },
+                    {
+                        "Type": "Forward Lunges",
+                        "Optimal Rep Count": 10,
+                        "Optimal Rep Time": 2,
+                        "Display Name": "Forward Lunges",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 35,
+                        "Muscles": [
+                            "Upper Leg",
+                            "Calf",
+                            "Glute"
+                        ]
+                    },
+                    {
+                        "Type": "Cross Leg",
+                        "Optimal Rep Count": 1,
+                        "Optimal Rep Time": 15,
+                        "Display Name": "Reverse Genie",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 125,
+                        "Muscles": [
+                            "Forearm",
+                            "Shoulder",
+                            "Bicep"
+                        ]
+                    },
+                    {
+                        "Type": "Dead Bug",
+                        "Optimal Rep Count": 10,
+                        "Optimal Rep Time": 3,
+                        "Display Name": "Dead Bug",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 30,
+                        "Muscles": [
+                            "Abdominal", 
+                            "Upper Leg"]
+                    },
+                    {
+                        "Type": "Frog Stand",
+                        "Optimal Rep Count": 2,
+                        "Optimal Rep Time": 15,
+                        "Display Name": "Frog Stand",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 65,
+                        "Muscles": [
+                            "Shoulder", 
+                            "Forearm", 
+                            "Abdominal"
+                        ]
+                    },
+                    {
+                        "Type": "Frog Walk",
+                        "Optimal Rep Count": 1,
+                        "Optimal Rep Time": 20,
+                        "Display Name": "Frog Walk",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 85,
+                        "Muscles": [
+                            "Shoulder", 
+                            "Forearm", 
+                            "Abdominal"
+                        ]
+                    },
+                    {
+                        "Type": "Standing side Leg raises",
+                        "Optimal Rep Count": 10,
+                        "Optimal Rep Time": 3,
+                        "Display Name": "Standing Side Leg Raises",
+                        "Symetrical Limb Targeting": false,
+                        "Difficulty": 40,
+                        "Muscles": [ 
+                            "Upper Leg"
+                        ]
+                    },
+                    {
+                        "Type": "High Knee Marches",
+                        "Optimal Rep Count": 10,
+                        "Optimal Rep Time": 3,
+                        "Display Name": "High Knee Marches",
+                        "Symetrical Limb Targeting": false,
+                        "Difficulty": 30,
+                        "Muscles": [ 
+                            "Upper Leg"
+                        ]
+                    },
+                    {
+                        "Type": "Hollow Rocks",
+                        "Optimal Rep Count": 15,
+                        "Optimal Rep Time": 3,
+                        "Display Name": "Hollow Rocks",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 50,
+                        "Muscles": [
+                            "Abdominal", 
+                            "Upper Leg"
+                        ]
+                    },
+                    {
+                        "Type": "Glute Bridge Hold",
+                        "Optimal Rep Count": 1,
+                        "Optimal Rep Time": 30,
+                        "Display Name": "Glute Bridge Hold",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 40,
+                        "Muscles": [
+                            "Glute", 
+                            "Upper Leg",
+                            "Abdominal"
+                        ]
+                    },
+                    {
+                        "Type": "Handstand Hold",
+                        "Optimal Rep Count": 1,
+                        "Optimal Rep Time": 30,
+                        "Display Name": "Handstand Hold",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 70,
+                        "Muscles": [
+                            "Forearm",
+                            "Abdominal"
+                        ]
+                    },
+                    {
+                        "Type": "Handstand Walk",
+                        "Optimal Rep Count": 1,
+                        "Optimal Rep Time": 15,
+                        "Display Name": "Handstand Walk",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 100,
+                        "Muscles": [
+                            "Forearm",
+                            "Abdominal"
+                        ]
+                    },
+                    {
+                        "Type": "The Bridge",
+                        "Optimal Rep Count": 1,
+                        "Optimal Rep Time": 10,
+                        "Display Name": "Handstand Hold",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 90,
+                        "Muscles": [
+                            "Forearm",
+                            "Abdominal"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

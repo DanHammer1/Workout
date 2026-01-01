@@ -1,0 +1,27 @@
+Plans for selection random exercises for a workout:
+
+Approach 1 - Muscle Weighting. (Chosen for now)
+Each muscle will have a probability out of 1 to be picked for the next exercise, if picked, next exercise will have to include the muscle.
+Picking the exercise means all muscles involved are less likely to be chosen next time and other ones will be more likely.
+This means exercises with many muscles involved are more likely to be chosen.
+
+Approach 2 - Exercise Weighting.
+It will be the same as approach 1 except it's the exercises themselves that have weighting instead. This means Exercises with many 
+variation will have major bias (Eg too many pushups).
+
+Actually approach involves weighting for muscle, exercise and category all combined - future self.
+Works well if there is a good amount and balance of exercises.
+Otherwise a little bit of bias is present.
+
+Todo:
+
+Add Background for website.
+
+Setup database.
+
+Dailies:
+
+Janurary - 3 new exercises per day, heavy work on product
+Feburary Onwards - 1 new exercise per day until product is complete, continue working passively
+
+1 workout per day.
