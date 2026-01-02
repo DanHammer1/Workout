@@ -27,7 +27,8 @@
                         "Muscles": [
                             "Shoulder", 
                             "Tricep",
-                            "Abdominal"]
+                            "Abdominal"
+                        ]
                     },
                     {
                         "Type": "Superman",
@@ -231,7 +232,7 @@
                         "Optimal Rep Time": 5,
                         "Display Name": "Pistol Squat",
                         "Symetrical Limb Targeting": false,
-                        "Difficulty": 90,
+                        "Difficulty": 85,
                         "Muscles": [
                             "Upper Leg",
                             "Abdominal",
@@ -245,7 +246,7 @@
                         "Optimal Rep Time": 5,
                         "Display Name": "Sissy Squat",
                         "Symetrical Limb Targeting": true,
-                        "Difficulty": 67,
+                        "Difficulty": 80,
                         "Muscles": [
                             "Upper Leg",
                             "Abdominal",
@@ -322,6 +323,19 @@
                         ]
                     },
                     {
+                        "Type": "Dips",
+                        "Optimal Rep Count": 10,
+                        "Optimal Rep Time": 2,
+                        "Display Name": "Hip Dips",
+                        "Symetrical Limb Targeting": false,
+                        "Difficulty": 50,
+                        "Muscles": [
+                            "Abdominal",
+                            "Shoulder",
+                            "Glute"
+                        ]
+                    },
+                    {
                         "Type": "Shoulder Taps",
                         "Optimal Rep Count": 15,
                         "Optimal Rep Time": 3,
@@ -372,7 +386,8 @@
                             "Shoulder",
                             "Glute",
                             "Upper Leg",
-                            "Back"
+                            "Back",
+                            "Tricep"
                         ]
                     },
                     {
@@ -514,10 +529,10 @@
                     {
                         "Type": "Regular",
                         "Optimal Rep Count": 1,
-                        "Optimal Rep Time": 30,
+                        "Optimal Rep Time": 20,
                         "Display Name": "Wall Sit",
                         "Symetrical Limb Targeting": true,
-                        "Difficulty": 50,
+                        "Difficulty": 55,
                         "Muscles": [
                             "Calf",
                             "Upper Leg"
@@ -787,8 +802,7 @@
                         "Difficulty": 60,
                         "Muscles": [
                             "Shoulder", 
-                            "Forearm", 
-                            "Abdominal"
+                            "Forearm"
                         ]
                     },
                     {
@@ -885,6 +899,29 @@
                         "Muscles": [
                             "Forearm",
                             "Abdominal"
+                        ]
+                    },
+                    {
+                        "Type": "Jumping Lunges",
+                        "Optimal Rep Count": 10,
+                        "Optimal Rep Time": 2,
+                        "Display Name": "Handstand Hold",
+                        "Symetrical Limb Targeting": false,
+                        "Difficulty": 50,
+                        "Muscles": [
+                            "Upper Leg"
+                        ]
+                    },
+                    {
+                        "Type": "Tricep Dips",
+                        "Optimal Rep Count": 10,
+                        "Optimal Rep Time": 2,
+                        "Display Name": "Tricep Dips",
+                        "Symetrical Limb Targeting": true,
+                        "Difficulty": 35,
+                        "Muscles": [
+                            "Tricep",
+                            "Shoulder"
                         ]
                     }
                 ]
