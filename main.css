@@ -4,6 +4,13 @@ body {
     background-repeat: no-repeat;
 }
 
+div.Home {
+    width: calc(100% - 60px);
+    margin: 0;
+    padding: 0;
+    outline: 2px solid red;
+}
+
 .Home {
     font-size: 30px;
     text-transform: uppercase;
@@ -17,12 +24,10 @@ body {
 }
 
 .Center {
-    position: fixed;
-    top: 30px;
+    position: absolute;
+    text-align: center;
     left: 50%;
     transform: translateX(-50%);
-    width: auto;
-    text-align: center;
 }
 
 .Button {
