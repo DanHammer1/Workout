@@ -30,3 +30,7 @@ Feburary Onwards - 1 new exercise per day until product is complete, continue wo
 Ideas:
 
 Change run generation to factor in speed allowing for occasional fast paced runs but way less distance.
+
+Website Plans:
+
+2 main colours - Orange and Black (Most friendly and welcoming).
