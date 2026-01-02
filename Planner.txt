@@ -25,3 +25,8 @@ Janurary - 3 new exercises per day, heavy work on product
 Feburary Onwards - 1 new exercise per day until product is complete, continue working passively
 
 1 workout per day.
+
+
+Ideas:
+
+Change run generation to factor in speed allowing for occasional fast paced runs but way less distance.

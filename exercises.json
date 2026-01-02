@@ -353,7 +353,7 @@
                         "Optimal Rep Time": 30,
                         "Display Name": "Beginner Plank",
                         "Symetrical Limb Targeting": true,
-                        "Difficulty": 25,
+                        "Difficulty": 35,
                         "Muscles": [
                             "Abdominal",
                             "Shoulder",
@@ -450,32 +450,6 @@
                         "Display Name": "Regular Pullup",
                         "Symetrical Limb Targeting": true,
                         "Difficulty": 65,
-                        "Muscles": [
-                            "Back",
-                            "Bicep",
-                            "Forearm"
-                        ]
-                    },
-                    {
-                        "Type": "Chin",
-                        "Optimal Rep Count": 10,
-                        "Optimal Rep Time": 3,
-                        "Display Name": "Chin-Up",
-                        "Symetrical Limb Targeting": true,
-                        "Difficulty": 55,
-                        "Muscles": [
-                            "Back",
-                            "Bicep",
-                            "Forearm"
-                        ]
-                    },
-                    {
-                        "Type": "Chin One Arm",
-                        "Optimal Rep Count": 5,
-                        "Optimal Rep Time": 3,
-                        "Display Name": "One-Arm Chin-Up",
-                        "Symetrical Limb Targeting": false,
-                        "Difficulty": 115,
                         "Muscles": [
                             "Back",
                             "Bicep",
@@ -810,7 +784,7 @@
                         "Optimal Rep Time": 15,
                         "Display Name": "Frog Stand",
                         "Symetrical Limb Targeting": true,
-                        "Difficulty": 65,
+                        "Difficulty": 60,
                         "Muscles": [
                             "Shoulder", 
                             "Forearm", 
