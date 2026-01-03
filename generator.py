@@ -18,6 +18,8 @@ min_run_length = 2
 max_run_length = 15
 workout_intensity_conversion_factor = 3/100 # Intensity of denominator is numerator km extra.
 
+fastest_run_pace = 270 - int(70 * skill_factor)
+slowest_run_pace = 300
 
 class Timer:
     def __init__(self, seconds=0, minutes=0, hours=0):
@@ -333,7 +335,7 @@ def print_workout(workout):
     print("Workout Consists Of:\n")
     for exercise in workout:
         if exercise.category == "Run":
-            print(f"\nRun {max(min_run_length, exercise.length)}km")
+            print(f"\nRun {max(min_run_length, exercise.length)}km in {exercise.time.printable()}")
         else:
             if exercise.optimal_reps > 1:
                 print(f"{exercise.display_name} x{exercise.optimal_reps}" + 
@@ -389,9 +391,20 @@ def generate_run(workout, optimal_difficulty, exercise_count):
     run_exercise = Exercise(difficulty=run_difficulty, category="Run", muscles=["Upper Leg"],
                             display="Run", optimal_reps=1, optimal_rep_time=Timer(seconds=0))
     
+    pace = random.randint(fastest_run_pace, slowest_run_pace)
+    print(Timer(seconds=pace).printable())
+    multiplier = (fastest_run_pace - pace) / (fastest_run_pace - slowest_run_pace)
+    print(multiplier, fastest_run_pace, slowest_run_pace, pace)
+    optimal_run_length -= min_run_length
+    optimal_run_length *= multiplier
+    optimal_run_length += min_run_length
+
     run_exercise.length = optimal_run_length
 
     round_run_distance(run_exercise)
+
+    run_exercise.time = Timer(seconds=(pace * run_exercise.length))
+    run_exercise.time.seconds = 0
     
     workout.append(run_exercise)
 

@@ -2,25 +2,48 @@ body {
     background-image: url("Background.png");
     background-size: 100%;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 div.Home {
-    width: calc(100% - 60px);
+    width: calc(100% - 90px);
     margin: 0;
     padding: 0;
     outline: 2px solid red;
-}
-
-.Home {
     font-size: 30px;
     text-transform: uppercase;
     font-family: 'Times New Roman';
     padding: 1%;
-    position: absolute;
+    position: fixed;
     top: 30px;
     left: 30px;
     white-space: nowrap;
     color: rgb(255, 255, 255);
+}
+
+div.Workouts {
+    width: calc(30% - 60px);
+    margin: 0;
+    padding: 0;
+    outline: 2px solid red;
+    font-size: 30px;
+    text-transform: uppercase;
+    padding: 1%;
+    position: absolute;
+    top: 120px;
+    left: 30px;
+    white-space: nowrap;
+    height: calc(100% - 120px - 60px);
+    color: rgb(255, 255, 255);
+}
+
+div.Workout {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    height: 15%;
+    width: 90%;
+    outline: 2px solid red;
 }
 
 .Center {
@@ -34,6 +57,19 @@ div.Home {
     cursor: pointer;
 }
 
+.Title {
+    font-size: 30px;
+    font-family: cursive;
+    padding: 0;
+    position: absolute;
+}
+
+.Metadata {
+    font-size: 20px;
+    position: absolute;
+    font-family: Arial;
+}
+
 a {
     text-decoration: none;
     color: rgb(255, 255, 255);
@@ -42,4 +78,5 @@ a {
 p {
     display: inline;
     margin: 0;
+    font-family: 'Times New Roman';
 }
